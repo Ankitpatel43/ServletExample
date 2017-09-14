@@ -7,7 +7,7 @@
 <title>Login page</title>
 </head>
 <body>
-         <h1>Welcomme to our application</h1>
+         <h1>Welcome to our application</h1>
          <p>${errorMsg}</p>
   <form action="handleLogin" method="post">
   
