@@ -10,7 +10,7 @@
 		</head>
 	<body>
      <h1> Welcome ${currentUser.firstname} ${currentUser.lastname}</h1>
-     <a href="showDay">Display Day</a> | <a href="showCountries">Display Countries</a> |<a href="logout">Log Out</a>
+     <a href="showDay">Display Day</a> | <a href="showCountries">Display Countries</a> |<a href="logout">Log Out</a> | <a href="color">Color</a>
  
  
  	<p>

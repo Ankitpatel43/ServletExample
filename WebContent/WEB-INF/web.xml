@@ -21,6 +21,4 @@
     <servlet-name>CalculatorServlet</servlet-name>
     <url-pattern>/calculate</url-pattern>
   </servlet-mapping>
-  
-  
 </web-app>
